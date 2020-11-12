@@ -3,6 +3,10 @@
 A cool Pokemon deck collection.
 
 ![Imgur](https://i.ibb.co/kxNqTHh/Screenshot.png)
+---
+![Imgur](https://i.ibb.co/FmvZT48/Screenshot.png)
+
+
 
 ## Todo
   * Some cool font for heading, title, Pokemon name, winner, loser - different for each.
